@@ -12,7 +12,7 @@ pydot = "*"
 django-extensions = {ref = "8746648d5918ef4b5c17c2846aecd4e00e45bec9", git = "https://github.com/django-extensions/django-extensions"}
 
 [dev-packages]
-pytest-django = "==4.5.2"
+pytest-django = "==4.10.0"
 pytest-cov = "==3.0.0"
 
 [requires]
