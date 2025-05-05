@@ -122,19 +122,21 @@
         },
         "pydot": {
             "hashes": [
-                "sha256:248081a39bcb56784deb018977e428605c1c758f10897a339fce1dd728ff007d",
-                "sha256:66c98190c65b8d2e2382a441b4c0edfdb4f4c025ef9cb9874de478fb0793a451"
+                "sha256:12f16493337cade2f7631b87c8ccd299ba2e251f3ee5d0732a058df2887afe97",
+                "sha256:cf86e13a6cfe2a96758a9702537f77e0ac1368db8ef277b4d3b34473ea425c97"
             ],
             "index": "pypi",
-            "version": "==1.4.2"
+            "markers": "python_version >= '3.8'",
+            "version": "==4.0.0"
         },
         "pyparsing": {
             "hashes": [
-                "sha256:2b020ecf7d21b687f219b71ecad3631f644a47f01403fa1d1036b0c6416d70fb",
-                "sha256:5026bae9a10eeaefb61dab2f09052b9f4307d44aee4eda64b309723d8d206bbc"
+                "sha256:a749938e02d6fd0b59b356ca504a24982314bb090c383e3cf201c95ef7e2bfcf",
+                "sha256:b9c13f1ab8b3b542f72e28f634bad4de758ab3ce4546e4301970ad6fa77c38be"
             ],
             "index": "pypi",
-            "version": "==3.0.9"
+            "markers": "python_version >= '3.9'",
+            "version": "==3.2.3"
         },
         "six": {
             "hashes": [
